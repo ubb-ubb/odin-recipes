@@ -1,1 +1,2 @@
-TO DO: What the current project is and what skills you will have demonstrated once you have completed it.
+Project was basic. But it was great to refresh memory and practice git commit messages.
+
